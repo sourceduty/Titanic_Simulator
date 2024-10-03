@@ -1,4 +1,4 @@
-![Titanic Simulator](https://github.com/user-attachments/assets/0e02e209-2238-407b-bf63-941c267160c7)
+![Titanic Sinking](https://github.com/user-attachments/assets/e69fc0c1-fde1-42fb-8aa4-6ae7ca205f90)
 
 > Simulate the sinking of the Titanic ship in 1912.
 
